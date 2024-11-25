@@ -1,3 +1,5 @@
+El proyecto fue planificado para realizar el diseño de videojuego en las unidades de la materia de Hardware de computación que permita el aprendizaje a través de prácticas de lo que trata cada uno de los aspectos involucrados en las unidades y se pueda a través del diseño el desarrollo del videojuego.
+
 La aplicacion cumple con los requisitos predifinidos para el desarrollo, ademas de poseer Sonido, animaciones visuales y sensaciones hapticas.
 
 Imagenes Del Proyecto:
